@@ -1,0 +1,7 @@
+Extension provides easy management of custom data.
+Custom data is stored in the ParserOutput object cache and
+can also be used for custom skin extension, e.g. for making new
+boxes in the sidebar.
+
+-- hansm 2007-01-06
+
