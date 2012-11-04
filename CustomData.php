@@ -5,7 +5,9 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 }
 
 // autoloader
-$wgAutoloadClasses['CustomData'] = __DIR__ . '/CustomData.hooks.php';
+$dir = __DIR__  . '/';
+$wgAutoloadClasses['CustomData'] = $dir . 'CustomData.hooks.php';
+$wgExtensionMessagesFiles['CustomData'] = $dir . 'CustomData.i18n.php';
 
 // hooks
 $wgCustomData = new CustomData;
@@ -13,11 +15,11 @@ $wgHooks['ParserClearState'][] = array( &$wgCustomData, 'onParserClearState' );
 $wgHooks['OutputPageParserOutput'][] = array( &$wgCustomData, 'onOutputPageParserOutput' );
 
 // credits
-$wgExtensionCredits['parserhook']['CustomData'] = array(
+$wgExtensionCredits['parserhook'][] = array(
 	'path' => __FILE__,
 	'name' => 'CustomData',
-	'url' => '//www.mediawiki.org/wiki/Extension:CustomData',
-	'description' => 'Provides an easy to use interface for other extensions that need to transfer data retrieved from the parser to the skin.',
+	'url' => 'https://www.mediawiki.org/wiki/Extension:CustomData',
+	'descriptionmsg' => 'customdata-desc',
 	'author' => array( 'Hans Musil' ),
 	'version' => '1.1'
 );
