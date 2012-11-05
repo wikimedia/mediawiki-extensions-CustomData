@@ -32,6 +32,13 @@ $messages['es'] = array(
 	'customdata-desc' => 'Proporciona una interfaz fácil de usar para otras extensiones que necesitan transferir datos recuperados desde el analizador a la pantalla de visualización.',
 );
 
+/** French (français)
+ * @author Gomoko
+ */
+$messages['fr'] = array(
+	'customdata-desc' => "Fournit une interface facile à utiliser pour les autres extensions qui nécessitent de transférer des données récupérées depuis l'analyseur vers l'habillage",
+);
+
 /** Galician (galego)
  * @author Toliño
  */
@@ -39,11 +46,25 @@ $messages['gl'] = array(
 	'customdata-desc' => 'Proporciona unha interface fácil de usar a outras extensións que necesitan transferir os datos recollidos desde o analizador ata a aparencia',
 );
 
+/** Italian (italiano)
+ * @author Beta16
+ */
+$messages['it'] = array(
+	'customdata-desc' => "Fornisce un'interfaccia facile da usare per le altre estensioni che necessitato di trasferire dati dal parser alla skin",
+);
+
 /** Japanese (日本語)
  * @author Shirayuki
  */
 $messages['ja'] = array(
 	'customdata-desc' => 'パーサーから取得したデータを外装に転送するのに必要な、使いやすいインターフェイスを、他の拡張機能に提供する',
+);
+
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'customdata-desc' => '스킨에 파서에서 검색한 데이터를 전송해야 할 다른 확장 기능에 대한 인터페이스를 사용하기 쉽게 제공',
 );
 
 /** Macedonian (македонски)
