@@ -46,6 +46,13 @@ $messages['gl'] = array(
 	'customdata-desc' => 'Proporciona unha interface fácil de usar a outras extensións que necesitan transferir os datos recollidos desde o analizador ata a aparencia',
 );
 
+/** Hebrew (עברית)
+ * @author Amire80
+ */
+$messages['he'] = array(
+	'customdata-desc' => 'ממשק קל שהרחבות יכולות להשתמש בו כדי להעביר נתונים מהמפענח אל ערכת העיצוב',
+);
+
 /** Italian (italiano)
  * @author Beta16
  */
