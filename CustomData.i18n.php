@@ -80,3 +80,17 @@ $messages['ko'] = array(
 $messages['mk'] = array(
 	'customdata-desc' => 'Дава лесен посредник за други додатоци што треба да му префрлаат податоци на рувото преземени од парсерот',
 );
+
+/** Malay (Bahasa Melayu)
+ * @author Anakmalaysia
+ */
+$messages['ms'] = array(
+	'customdata-desc' => 'Menyediakan antaramuka yang senang digunakan untuk sambungan lain yang perlu memindahkan data yang diterima dari penghurai ke kulit',
+);
+
+/** Dutch (Nederlands)
+ * @author Siebrand
+ */
+$messages['nl'] = array(
+	'customdata-desc' => 'Biedt een eenvoudig te gebruiken interface voor andere uitbreidingen die gegevens van de parser naar de skin moeten overdragen',
+);
