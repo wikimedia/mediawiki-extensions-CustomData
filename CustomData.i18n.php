@@ -94,3 +94,10 @@ $messages['ms'] = array(
 $messages['nl'] = array(
 	'customdata-desc' => 'Biedt een eenvoudig te gebruiken interface voor andere uitbreidingen die gegevens van de parser naar de skin moeten overdragen',
 );
+
+/** Vietnamese (Tiếng Việt)
+ * @author Minh Nguyen
+ */
+$messages['vi'] = array(
+	'customdata-desc' => 'Giao diện dễ sử dụng cho các phần mở rộng cần truyền dữ liệu lấy từ bộ phân tích đến hình dạng',
+);
