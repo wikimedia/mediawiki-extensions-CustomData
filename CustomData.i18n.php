@@ -13,9 +13,10 @@ $messages['en'] = array(
 );
 
 /** Message documentation (Message documentation)
+ * @author Shirayuki
  */
 $messages['qqq'] = array(
-	'customdata-desc' => '{{desc}}',
+	'customdata-desc' => '{{desc|name=Custom Data|url=http://www.mediawiki.org/wiki/Extension:CustomData}}',
 );
 
 /** German (Deutsch)
