@@ -54,6 +54,13 @@ $messages['he'] = array(
 	'customdata-desc' => 'ממשק קל שהרחבות יכולות להשתמש בו כדי להעביר נתונים מהמפענח אל ערכת העיצוב',
 );
 
+/** Upper Sorbian (hornjoserbsce)
+ * @author Michawiki
+ */
+$messages['hsb'] = array(
+	'customdata-desc' => 'Staja lochko wobsłužojomny wužiwarski powjerch za druhe rozšěrjenja k dispoziciji, kotrež dyrbja daty přenjesć, wotwołane wot parsera do wužiwarskeho powjercha',
+);
+
 /** Italian (italiano)
  * @author Beta16
  */
