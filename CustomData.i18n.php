@@ -26,6 +26,13 @@ $messages['de'] = array(
 	'customdata-desc' => 'Ergänzt eine leicht zu bedienende Oberfläche für andere Erweiterungen, um abgerufene Daten vom Parser zur Benutzeroberfläche zu übertragen',
 );
 
+/** Lower Sorbian (dolnoserbski)
+ * @author Michawiki
+ */
+$messages['dsb'] = array(
+	'customdata-desc' => 'Staja lažko wobsłužojobny wužywarski powjerch za druge rozšyrjenja k dispoziciji, kótarež muse daty pśenjasć, wótwołane wót parsera do wužywarskego powjercha',
+);
+
 /** Spanish (español)
  * @author Armando-Martin
  */
