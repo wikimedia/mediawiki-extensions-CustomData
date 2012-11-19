@@ -19,6 +19,13 @@ $messages['qqq'] = array(
 	'customdata-desc' => '{{desc|name=Custom Data|url=http://www.mediawiki.org/wiki/Extension:CustomData}}',
 );
 
+/** Czech (česky)
+ * @author Mormegil
+ */
+$messages['cs'] = array(
+	'customdata-desc' => 'Poskytuje jednoduché rozhraní pro další rozšíření, které potřebují přenášet data získaná z parseru do vzhledu',
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */
