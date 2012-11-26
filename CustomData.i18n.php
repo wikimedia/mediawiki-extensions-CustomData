@@ -117,6 +117,13 @@ $messages['nl'] = array(
 	'customdata-desc' => 'Biedt een eenvoudig te gebruiken interface voor andere uitbreidingen die gegevens van de parser naar de skin moeten overdragen',
 );
 
+/** Piedmontese (Piemontèis)
+ * @author Borichèt
+ */
+$messages['pms'] = array(
+	'customdata-desc' => "A dà n'antërfacia bela da dovré për j'àutre estension ch'a l'han dabzògn ëd trasferì dij dat da l'analisator a la pel",
+);
+
 /** Vietnamese (Tiếng Việt)
  * @author Minh Nguyen
  */
