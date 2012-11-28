@@ -19,6 +19,13 @@ $messages['qqq'] = array(
 	'customdata-desc' => '{{desc|name=Custom Data|url=http://www.mediawiki.org/wiki/Extension:CustomData}}',
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'customdata-desc' => "Ufre una interfaz fácil d'usar pa otres estensiones que necesiten tresferir datos recoyíos pol analizador a la visualización",
+);
+
 /** Czech (česky)
  * @author Mormegil
  */
