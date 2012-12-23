@@ -82,6 +82,13 @@ $messages['hsb'] = array(
 	'customdata-desc' => 'Staja lochko wobsłužojomny wužiwarski powjerch za druhe rozšěrjenja k dispoziciji, kotrež dyrbja daty přenjesć, wotwołane wot parsera do wužiwarskeho powjercha',
 );
 
+/** Indonesian (Bahasa Indonesia)
+ * @author Farras
+ */
+$messages['id'] = array(
+	'customdata-desc' => 'Menyediakan antarmuka ramah pengguna untuk ekstensi lain yang perlu mentransfer data yang diperoleh dari parser ke kulit',
+);
+
 /** Italian (italiano)
  * @author Beta16
  */
