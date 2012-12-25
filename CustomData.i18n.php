@@ -138,6 +138,13 @@ $messages['pms'] = array(
 	'customdata-desc' => "A dà n'antërfacia bela da dovré për j'àutre estension ch'a l'han dabzògn ëd trasferì dij dat da l'analisator a la pel",
 );
 
+/** Ukrainian (українська)
+ * @author Ата
+ */
+$messages['uk'] = array(
+	'customdata-desc' => 'Забезпечує простий у використанні інтерфейс для інших розширень, яким необхідно перенести дані, отримані з парсера, в обкладинку',
+);
+
 /** Vietnamese (Tiếng Việt)
  * @author Minh Nguyen
  */
