@@ -138,6 +138,13 @@ $messages['pms'] = array(
 	'customdata-desc' => "A dà n'antërfacia bela da dovré për j'àutre estension ch'a l'han dabzògn ëd trasferì dij dat da l'analisator a la pel",
 );
 
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'customdata-desc' => "Dèje 'n'inderfacce facile da ausà pe le otre estenziune ca onne abbèsogne de trasferìe le date recuperate da l'analizzatore pu scheme",
+);
+
 /** Russian (русский)
  * @author Ole Yves
  */
