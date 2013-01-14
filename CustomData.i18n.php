@@ -26,6 +26,13 @@ $messages['ast'] = array(
 	'customdata-desc' => "Ufre una interfaz fácil d'usar pa otres estensiones que necesiten tresferir datos recoyíos pol analizador a la visualización",
 );
 
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
+ * @author Wizardist
+ */
+$messages['be-tarask'] = array(
+	'customdata-desc' => 'Забясьпечвае просты ў выкарыстаньні інтэрфэйс для іншых пашырэньняў, якія патрабуюць перадачы зьвестак ад парсэра тэме афармленьня',
+);
+
 /** Czech (česky)
  * @author Mormegil
  */
