@@ -172,3 +172,10 @@ $messages['uk'] = array(
 $messages['vi'] = array(
 	'customdata-desc' => 'Giao diện dễ sử dụng cho các phần mở rộng cần truyền dữ liệu lấy từ bộ phân tích đến hình dạng',
 );
+
+/** Simplified Chinese (中文（简体）‎)
+ * @author Yfdyh000
+ */
+$messages['zh-hans'] = array(
+	'customdata-desc' => '为其他需要传输从解析器检索的数据到皮肤的扩展提供一个易于使用的接口',
+);
