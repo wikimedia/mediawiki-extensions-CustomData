@@ -117,6 +117,13 @@ $messages['ko'] = array(
 	'customdata-desc' => '스킨에 파서에서 검색한 데이터를 전송해야 할 다른 확장 기능에 대한 인터페이스를 사용하기 쉽게 제공',
 );
 
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'customdata-desc' => 'Brängg en ejfache Schnettschtäll en et Wiki för Zohsatzprojramme, di Daate vum Paaser en de Bovverfläsch övverdraare möße.',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
