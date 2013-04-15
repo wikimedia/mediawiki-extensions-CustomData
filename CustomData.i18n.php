@@ -54,6 +54,13 @@ $messages['dsb'] = array(
 	'customdata-desc' => 'Staja lažko wobsłužojobny wužywarski powjerch za druge rozšyrjenja k dispoziciji, kótarež muse daty pśenjasć, wótwołane wót parsera do wužywarskego powjercha',
 );
 
+/** Greek (Ελληνικά)
+ * @author Glavkos
+ */
+$messages['el'] = array(
+	'customdata-desc' => 'Παρέχει μια εύκολη στη μετάφραση διεπαφή που χρειάζεται να μεταφέρει δεδομένα που ανακτώνται από τον συντακτικό αναλυτή (parser) στην οπτική οργάνωση (skin)',
+);
+
 /** Spanish (español)
  * @author Armando-Martin
  */
