@@ -193,3 +193,10 @@ $messages['vi'] = array(
 $messages['zh-hans'] = array(
 	'customdata-desc' => '为其他需要传输从解析器检索的数据到皮肤的扩展提供一个易于使用的接口',
 );
+
+/** Traditional Chinese (中文（繁體）‎)
+ * @author Justincheng12345
+ */
+$messages['zh-hant'] = array(
+	'customdata-desc' => '為其他需要傳送解析器數據到外觀的擴展提供一個易於使用的接口',
+);
