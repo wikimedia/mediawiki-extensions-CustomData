@@ -173,6 +173,13 @@ $messages['ru'] = array(
 	'customdata-desc' => 'Предоставляет простой в использовании интерфейс для других расширений, которые необходимы для передачи данных, полученных из парсера, в тему оформления',
 );
 
+/** Swedish (svenska)
+ * @author Jopparn
+ */
+$messages['sv'] = array(
+	'customdata-desc' => 'Tillhandahåller ett lättanvänt gränssnitt för andra tillägg som behöver överföra data som hämtas från parsern till temat.',
+);
+
 /** Ukrainian (українська)
  * @author Ата
  */
