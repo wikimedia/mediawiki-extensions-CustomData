@@ -68,6 +68,13 @@ $messages['es'] = array(
 	'customdata-desc' => 'Proporciona una interfaz fácil de usar para otras extensiones que necesitan transferir datos recuperados desde el analizador a la pantalla de visualización.',
 );
 
+/** Persian (فارسی)
+ * @author Reza1615
+ */
+$messages['fa'] = array(
+	'customdata-desc' => 'رابط کاربری آسان برای استفاده از امکانات دیگر که نیاز به انتقال داده‌های بازیابی شده از تجزیه‌کننده به پوست دارند، فراهم می کند.',
+);
+
 /** French (français)
  * @author Gomoko
  */
