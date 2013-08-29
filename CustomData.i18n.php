@@ -166,6 +166,13 @@ $messages['nl'] = array(
 	'customdata-desc' => 'Biedt een eenvoudig te gebruiken interface voor andere uitbreidingen die gegevens van de parser naar de skin moeten overdragen',
 );
 
+/** Occitan (occitan)
+ * @author Cedric31
+ */
+$messages['oc'] = array(
+	'customdata-desc' => "Provesís una interfàcia de bon utilizar per las autras extensions que necessitan de transferir de donadas recuperadas dempuèi l'analisador cap a l'abilhatge",
+);
+
 /** Piedmontese (Piemontèis)
  * @author Borichèt
  */
