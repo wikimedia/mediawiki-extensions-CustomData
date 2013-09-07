@@ -40,6 +40,13 @@ $messages['cs'] = array(
 	'customdata-desc' => 'Poskytuje jednoduché rozhraní pro další rozšíření, které potřebují přenášet data získaná z parseru do vzhledu',
 );
 
+/** Welsh (Cymraeg)
+ * @author Lloffiwr
+ */
+$messages['cy'] = array(
+	'customdata-desc' => "Yn cynnig rhyngwyneb hawdd i'w ddefnyddio i'r estyniadau eraill sydd angen trosglwyddo data wedi ei adalw o'r dosranydd i'r wedd",
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */
@@ -178,6 +185,13 @@ $messages['oc'] = array(
  */
 $messages['pms'] = array(
 	'customdata-desc' => "A dà n'antërfacia bela da dovré për j'àutre estension ch'a l'han dabzògn ëd trasferì dij dat da l'analisator a la pel",
+);
+
+/** Brazilian Portuguese (português do Brasil)
+ * @author Cainamarques
+ */
+$messages['pt-br'] = array(
+	'customdata-desc' => 'Fornece uma interface amigável para outras extensões que transferem dados obtidos do analisador (parser) para o tema',
 );
 
 /** tarandíne (tarandíne)
