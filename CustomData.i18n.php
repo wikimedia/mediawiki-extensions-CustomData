@@ -33,7 +33,7 @@ $messages['be-tarask'] = array(
 	'customdata-desc' => 'Забясьпечвае просты ў выкарыстаньні інтэрфэйс для іншых пашырэньняў, якія патрабуюць перадачы зьвестак ад парсэра тэме афармленьня',
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Mormegil
  */
 $messages['cs'] = array(
