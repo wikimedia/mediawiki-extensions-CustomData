@@ -142,7 +142,7 @@ $messages['ja'] = array(
  * @author 아라
  */
 $messages['ko'] = array(
-	'customdata-desc' => '스킨에 파서에서 검색한 데이터를 전송해야 할 다른 확장 기능에 대한 인터페이스를 사용하기 쉽게 제공',
+	'customdata-desc' => '스킨에 파서에서 검색한 데이터를 전송해야 할 다른 확장 기능에 대한 인터페이스를 사용하기 쉽게 제공합니다',
 );
 
 /** Colognian (Ripoarisch)
