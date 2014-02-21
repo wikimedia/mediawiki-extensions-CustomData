@@ -208,6 +208,13 @@ $messages['ru'] = array(
 	'customdata-desc' => 'Предоставляет простой в использовании интерфейс для других расширений, которые необходимы для передачи данных, полученных из парсера, в тему оформления',
 );
 
+/** Scots (Scots)
+ * @author John Reid
+ */
+$messages['sco'] = array(
+	'customdata-desc' => 'Provides aen easy tae uise interface fer ither extensions that need tae transfer data retrieved fae the parser til the skin',
+);
+
 /** Swedish (svenska)
  * @author Jopparn
  */
