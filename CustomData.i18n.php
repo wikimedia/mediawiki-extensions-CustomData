@@ -187,6 +187,13 @@ $messages['pms'] = array(
 	'customdata-desc' => "A dà n'antërfacia bela da dovré për j'àutre estension ch'a l'han dabzògn ëd trasferì dij dat da l'analisator a la pel",
 );
 
+/** Portuguese (português)
+ * @author Hamilton Abreu
+ */
+$messages['pt'] = array(
+	'customdata-desc' => 'Fornece uma interface amigável para outras extensões que precisam de transferir dados obtidos do analisador sintático (<i>parser</i>) para o tema',
+);
+
 /** Brazilian Portuguese (português do Brasil)
  * @author Cainamarques
  */
