@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Armando-Martin"
+        ]
+    },
+    "customdata-desc": "Proporciona una interfaz fácil de usar para otras extensiones que necesitan transferir datos recuperados desde el analizador a la pantalla de visualización."
+}

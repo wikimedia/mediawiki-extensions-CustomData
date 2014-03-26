@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Beta16"
+        ]
+    },
+    "customdata-desc": "Fornisce un'interfaccia facile da usare per le altre estensioni che necessitato di trasferire dati dal parser alla skin"
+}

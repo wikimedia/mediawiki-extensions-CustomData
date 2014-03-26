@@ -7,6 +7,7 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 // autoloader
 $dir = __DIR__  . '/';
 $wgAutoloadClasses['CustomData'] = $dir . 'CustomData.hooks.php';
+$wgMessagesDirs['CustomData'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['CustomData'] = $dir . 'CustomData.i18n.php';
 
 // hooks
@@ -21,5 +22,5 @@ $wgExtensionCredits['parserhook'][] = array(
 	'url' => 'https://www.mediawiki.org/wiki/Extension:CustomData',
 	'descriptionmsg' => 'customdata-desc',
 	'author' => array( 'Hans Musil' ),
-	'version' => '1.1'
+	'version' => '1.2'
 );
