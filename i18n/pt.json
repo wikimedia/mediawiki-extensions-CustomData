@@ -4,5 +4,5 @@
             "Hamilton Abreu"
         ]
     },
-    "customdata-desc": "Fornece uma interface amigável para outras extensões que precisam de transferir dados obtidos do analisador sintático (<i>parser</i>) para o tema"
+    "customdata-desc": "Fornece uma interface amigável para outras extensões que precisam de transferir dados obtidos do analisador sintático (\u003Ci\u003Eparser\u003C/i\u003E) para o tema"
 }
