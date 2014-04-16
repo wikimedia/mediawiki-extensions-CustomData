@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Siebrand"
-        ]
-    },
-    "customdata-desc": "Biedt een eenvoudig te gebruiken interface voor andere uitbreidingen die gegevens van de parser naar de skin moeten overdragen"
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"customdata-desc": "Biedt een eenvoudig te gebruiken interface voor andere uitbreidingen die gegevens van de parser naar de skin moeten overdragen"
 }

@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Metalhead64"
-        ]
-    },
-    "customdata-desc": "Ergänzt eine leicht zu bedienende Oberfläche für andere Erweiterungen, um abgerufene Daten vom Parser zur Benutzeroberfläche zu übertragen"
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"customdata-desc": "Ergänzt eine leicht zu bedienende Oberfläche für andere Erweiterungen, um abgerufene Daten vom Parser zur Benutzeroberfläche zu übertragen"
 }

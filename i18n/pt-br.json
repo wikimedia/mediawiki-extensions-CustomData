@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Cainamarques"
-        ]
-    },
-    "customdata-desc": "Fornece uma interface amigável para outras extensões que transferem dados obtidos do analisador (parser) para o tema"
+	"@metadata": {
+		"authors": [
+			"Cainamarques"
+		]
+	},
+	"customdata-desc": "Fornece uma interface amigável para outras extensões que transferem dados obtidos do analisador (parser) para o tema"
 }

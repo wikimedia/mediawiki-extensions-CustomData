@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Shirayuki"
-        ]
-    },
-    "customdata-desc": "{{desc|name=Custom Data|url=http://www.mediawiki.org/wiki/Extension:CustomData}}"
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"customdata-desc": "{{desc|name=Custom Data|url=http://www.mediawiki.org/wiki/Extension:CustomData}}"
 }

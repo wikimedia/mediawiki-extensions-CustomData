@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Mormegil"
-        ]
-    },
-    "customdata-desc": "Poskytuje jednoduché rozhraní pro další rozšíření, které potřebují přenášet data získaná z parseru do vzhledu"
+	"@metadata": {
+		"authors": [
+			"Mormegil"
+		]
+	},
+	"customdata-desc": "Poskytuje jednoduché rozhraní pro další rozšíření, které potřebují přenášet data získaná z parseru do vzhledu"
 }

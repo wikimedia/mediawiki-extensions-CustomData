@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Jopparn"
-        ]
-    },
-    "customdata-desc": "Tillhandahåller ett lättanvänt gränssnitt för andra tillägg som behöver överföra data som hämtas från parsern till temat."
+	"@metadata": {
+		"authors": [
+			"Jopparn"
+		]
+	},
+	"customdata-desc": "Tillhandahåller ett lättanvänt gränssnitt för andra tillägg som behöver överföra data som hämtas från parsern till temat."
 }

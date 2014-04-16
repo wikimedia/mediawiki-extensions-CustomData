@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Gomoko"
-        ]
-    },
-    "customdata-desc": "Fournit une interface facile à utiliser pour les autres extensions qui nécessitent de transférer des données récupérées depuis l'analyseur vers l'habillage"
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"customdata-desc": "Fournit une interface facile à utiliser pour les autres extensions qui nécessitent de transférer des données récupérées depuis l'analyseur vers l'habillage"
 }

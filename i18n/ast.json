@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Xuacu"
-        ]
-    },
-    "customdata-desc": "Ufre una interfaz fácil d'usar pa otres estensiones que necesiten tresferir datos recoyíos pol analizador a la visualización"
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"customdata-desc": "Ufre una interfaz fácil d'usar pa otres estensiones que necesiten tresferir datos recoyíos pol analizador a la visualización"
 }
