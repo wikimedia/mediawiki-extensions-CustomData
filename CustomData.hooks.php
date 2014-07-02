@@ -77,7 +77,7 @@ class CustomData {
 	 */
 	public function onOutputPageParserOutput( OutputPage &$outputPage, ParserOutput $parserOutput ) {
 		if ( !isset( $parserOutput->mCustomData ) ) {
-			return false;
+			return true;
 		}
 
 		if( !isset( $outputPage->mCustomData ) ) {
