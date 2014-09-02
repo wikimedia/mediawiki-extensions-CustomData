@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Justincheng12345"
+			"Justincheng12345",
+			"Cwlin0416"
 		]
 	},
-	"customdata-desc": "為其他需要傳送解析器數據到外觀的擴展提供一個易於使用的接口"
+	"customdata-desc": "提供其他需要由解析器取得資料並傳送至外觀的擴充套件簡易的使用介面。"
 }
