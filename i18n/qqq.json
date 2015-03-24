@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Shirayuki",
+			"Umherirrender"
 		]
 	},
-	"customdata-desc": "{{desc|name=Custom Data|url=http://www.mediawiki.org/wiki/Extension:CustomData}}"
+	"customdata-desc": "{{desc|name=Custom Data|url=https://www.mediawiki.org/wiki/Extension:CustomData}}"
 }
