@@ -4,5 +4,5 @@
 			"Siebrand"
 		]
 	},
-	"customdata-desc": "Biedt een eenvoudig te gebruiken interface voor andere uitbreidingen die gegevens van de parser naar de skin moeten overdragen"
+	"customdata-desc": "Biedt een eenvoudig te gebruiken interface voor andere uitbreidingen die gegevens van de parser naar het uiterlijk moeten overdragen"
 }
