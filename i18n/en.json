@@ -1,6 +1,6 @@
 {
-    "@metadata": {
-        "authors": []
-    },
-    "customdata-desc": "Provides an easy to use interface for other extensions that need to transfer data retrieved from the parser to the skin"
+	"@metadata": {
+		"authors": []
+	},
+	"customdata-desc": "Provides an easy to use interface for other extensions that need to transfer data retrieved from the parser to the skin"
 }
