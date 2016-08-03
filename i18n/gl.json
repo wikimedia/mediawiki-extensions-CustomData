@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Toliño"
-		]
-	},
-	"customdata-desc": "Proporciona unha interface fácil de usar a outras extensións que necesitan transferir os datos recollidos desde o analizador ata a aparencia"
-}

@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Mormegil",
-			"Matěj Grabovský"
-		]
-	},
-	"customdata-desc": "Poskytuje jednoduché rozhraní pro další rozšíření, které potřebují přenášet data získaná ze syntaktického analyzátoru do vzhledu"
-}

@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Farras"
-		]
-	},
-	"customdata-desc": "Menyediakan antarmuka ramah pengguna untuk ekstensi lain yang perlu mentransfer data yang diperoleh dari parser ke kulit"
-}

@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"John Reid"
-		]
-	},
-	"customdata-desc": "Provides aen easy tae uise interface fer ither extensions that need tae transfer data retrieved fae the parser til the skin"
-}
